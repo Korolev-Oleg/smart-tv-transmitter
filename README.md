@@ -3,7 +3,7 @@
  
 App for broadcasting video from web to smart tv
 
-#$ Todo
+# Todo
 - [X] Ui interface
 - [X] Ux base interface
 - [ ] Server thread class
